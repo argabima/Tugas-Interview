@@ -58,7 +58,7 @@ const totalsaldo = arraysoal2.map(item => ({
     saldo: item.tabungan - item.hutang
 }));
 
-// console.log(totalsaldo);
+console.log(totalsaldo);
 
 // tambahan print all data with saldo
 
